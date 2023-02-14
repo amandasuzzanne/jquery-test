@@ -1,1 +1,1 @@
-# Learn more about jquery
+# Learn more about Jquery
